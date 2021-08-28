@@ -7,6 +7,32 @@ print("""
 \033[0;36m
 
    
+                                                                                         
+                                                                                         
+                                  hhhhhhh                                                
+                                  h:::::h                                                
+                                  h:::::h                                                
+                                  h:::::h                                                
+zzzzzzzzzzzzzzzzz  aaaaaaaaaaaaa   h::::h hhhhh      rrrrr   rrrrrrrrr   aaaaaaaaaaaaa   
+z:::::::::::::::z  a::::::::::::a  h::::hh:::::hhh   r::::rrr:::::::::r  a::::::::::::a  
+z::::::::::::::z   aaaaaaaaa:::::a h::::::::::::::hh r:::::::::::::::::r aaaaaaaaa:::::a 
+zzzzzzzz::::::z             a::::a h:::::::hhh::::::hrr::::::rrrrr::::::r         a::::a 
+      z::::::z       aaaaaaa:::::a h::::::h   h::::::hr:::::r     r:::::r  aaaaaaa:::::a 
+     z::::::z      aa::::::::::::a h:::::h     h:::::hr:::::r     rrrrrrraa::::::::::::a 
+    z::::::z      a::::aaaa::::::a h:::::h     h:::::hr:::::r           a::::aaaa::::::a 
+   z::::::z      a::::a    a:::::a h:::::h     h:::::hr:::::r          a::::a    a:::::a 
+  z::::::zzzzzzzza::::a    a:::::a h:::::h     h:::::hr:::::r          a::::a    a:::::a 
+ z::::::::::::::za:::::aaaa::::::a h:::::h     h:::::hr:::::r          a:::::aaaa::::::a 
+z:::::::::::::::z a::::::::::aa:::ah:::::h     h:::::hr:::::r           a::::::::::aa:::a
+zzzzzzzzzzzzzzzzz  aaaaaaaaaa  aaaahhhhhhh     hhhhhhhrrrrrrr            aaaaaaaaaa  aaaa
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+
                                                                                                                               
                                                                                                               
                                                                                                                               
@@ -26,7 +52,7 @@ if kurd == '1':
     print('''
 [+] Orginal Report 
 [+] Spam
-[+] WA7SH STAF
+[+] ZAHRA
 ''')
     time.sleep(1)
     print('[!] Report All ....')
